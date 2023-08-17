@@ -1,4 +1,5 @@
-# Finance.AI :brain:
+# Finance.AI :brain: 
+Address: [Finance.AI Streamlit App](https://finance-ai-qna-streamlit.app)
 
 ## Description
 Finance.AI is a specialized financial chatbot application designed to assist users with financial document analysis. By leveraging the power of state-of-the-art AI, the chatbot can efficiently process and analyze financial data from uploaded PDF documents and provide valuable insights based on financial indices like RCP, RCI, M.Bruta, and many more.
@@ -28,5 +29,3 @@ Finance.AI is a specialized financial chatbot application designed to assist use
 ### Improvements:
 - The app is in constant improvement and is aware of users' requests for enrichment.
   
-## Live Demo:
-[Finance.AI Streamlit App](https://finance-ai-qna-streamlit.app)
